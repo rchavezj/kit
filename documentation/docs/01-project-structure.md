@@ -11,6 +11,8 @@ my-project/
 │ │ ├ server/
 │ │ │ └ [your server-only lib files]
 │ │ └ [your lib files]
+| ├ components/
+│ │ └ [your componenets]
 │ ├ params/
 │ │ └ [your param matchers]
 │ ├ routes/
